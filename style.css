@@ -1,0 +1,36 @@
+body{
+background-color: lightgray;
+width= 100%;
+padding: 100px 300px;}
+
+h1{color:red;}
+
+
+
+.butt {
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  border: 1px solid blue;
+  border-radius: 5px;
+  float: right;
+
+}
+
+.t{
+background-color: lightblue;
+margin-right: -4px;
+display: inline-block;
+width: 200px;
+height: 80px;
+padding-top: 80px;
+text-align: center;
+border: 1px solid white;
+font-weight: bold;
+}
+
+
+
+.invisible {
+  visibility: hidden;
+}
